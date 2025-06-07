@@ -62,6 +62,8 @@ README.md
 - [ResNet18 Run Link](https://wandb.ai/lkata22-free-university-of-tbilisi-/facial_expression_recognition/runs/6mstew2k?nw=nwuserlkata22)
 
 
+wandb პროექტის რეპოზიტორია ვერ გავხადე public . ამიტომ ქვევით ვაგდებ workspace-ს სურათს.
+
 ![image](https://github.com/user-attachments/assets/2052724f-de01-42f1-a5e7-31167786ea18)
 
 
