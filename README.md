@@ -62,3 +62,6 @@ README.md
 - [ResNet18 Run Link](https://wandb.ai/lkata22-free-university-of-tbilisi-/facial_expression_recognition/runs/6mstew2k?nw=nwuserlkata22)
 
 
+![image](https://github.com/user-attachments/assets/2052724f-de01-42f1-a5e7-31167786ea18)
+
+
